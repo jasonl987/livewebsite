@@ -16,7 +16,7 @@ function App() {
       
       <section className="hero">
         <div className="hero-content">
-          <h1>The Perfect Morning Combination</h1>
+          <h1>The Perfect Morning</h1>
           <p className="subtitle">Discover the harmony of eggs, hash browns, avocado, and coffee</p>
           <button className="cta-button">Read the Blog</button>
         </div>
